@@ -19,5 +19,9 @@
 ## Running Tests
 
 ```bash
+py test_data_generator.py # generates test data
+
 mvn exec:java # runs the main class
+
+py visualizer.py # visualizes the results
 ```
